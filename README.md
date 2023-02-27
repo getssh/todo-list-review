@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Todo-list-structure\] ](#-todo-list-structure-)
+- [📖 \[todo-list-review\] ](#-todo-list-review-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,9 +25,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Todo-list-structure] <a name="about-project"></a>
+# 📖 [todo-list-review] <a name="about-project"></a>
 
-**[Todo-list-structure]** This is a project that use to create and manage our daily tasks. It can be used to create, update, mark complate, and remove tasks.
+**[todo-list-review]** This is a project that use to create and manage our daily tasks. It can be used to create, update, mark complate, and remove tasks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -60,7 +60,7 @@ For this project, HTML, CSS and JavaScript has been used
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://getssh.github.io/todo-list-structure/)
+- [Live Demo](https://getssh.github.io/todo-list-review/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,9 +80,9 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/getssh/todo-list-structure
+git clone https://github.com/getssh/todo-list-review
 
-cd todo-list-structure
+cd todo-list-review
 
 ### Install
 
@@ -142,7 +142,7 @@ use github pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/getssh/todo-list-structure/issues).
+Feel free to check the [issues page](https://github.com/getssh/todo-list-review/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
