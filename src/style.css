@@ -77,7 +77,8 @@ input::placeholder {
   margin-right: 0.5rem;
 }
 
-#todo-lists > *:hover, #todo-lists > *:hover input {
+#todo-lists > *:hover,
+#todo-lists > *:hover input {
   background-color: #f7f77c;
 }
 
