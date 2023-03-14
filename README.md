@@ -56,8 +56,6 @@ For this project, HTML, CSS and JavaScript has been used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo](https://getssh.github.io/todo-list-review/)
